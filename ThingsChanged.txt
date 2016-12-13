@@ -1,0 +1,4 @@
+
+
+1)Changes made in AndroidManifest.xml for changing icon.Image added in mipmap folder
+2)In strings.xml appname is changed
